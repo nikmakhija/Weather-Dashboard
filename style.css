@@ -1,0 +1,30 @@
+h2 {
+  background-color: lightcyan;
+  text-align: center;
+  text-decoration-color: maroon;
+  font-size: 45px; 
+
+}
+.btn {
+  text-align: center;
+  color: crimson;
+  size: 50pc;
+}
+button {
+  text-align: center;
+  background-color: greenyellow;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+strong {
+  font-size: 30px;
+}
+.mt-1 {
+  background-color:gold;
+}
+body {
+  text-align: center;
+}
+.container-fluid {
+  text-align: center;
+}
