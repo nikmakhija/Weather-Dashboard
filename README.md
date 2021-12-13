@@ -12,3 +12,4 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ![Screenshot (13)](https://user-images.githubusercontent.com/90490335/145739214-c5cba68c-9f2d-4a8f-9180-655699afb6b6.png)
 file:///C:/Users/makhija.1/Documents/index.html
+https://nikmakhija.github.io/Weather-Dashboard/
